@@ -6,7 +6,7 @@ My Github shows demonstratable knowledge on:
 - Designing, technically implementing and deploying a React full-stack web based application.
 - Javascript and problem solving.
 
-Currently goals: 
+My current goals are: 
 
 - Work on TypeScript and CSS Skills
 
