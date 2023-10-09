@@ -3,7 +3,7 @@ Computer Science Graduate from the University of Birmingham with the goal of bec
 
 My Github shows demonstratable experience with: 
 
-- Designing, technically implementing and deploying a React full-stack web based application.
+- Designing, technically implementing and deploying a React live full-stack web based application that handles simultaneous users.
 - Javascript, algorithms and AI.
 
 My current goals are: 
