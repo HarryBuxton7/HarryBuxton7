@@ -4,7 +4,7 @@ Computer Science Graduate from the University of Birmingham with the goal of bec
 My Github shows demonstrable experience with: 
 
 - Designing, technically implementing and deploying a live full-stack web based application that handles simultaneous users.
-- React, Node, Express, MongoDB, MUI, Prettier, Thunder Client, React Query, React Router, JWT auth
+- React, Node, Express, MongoDB, MUI, Prettier, Thunder Client, React Query, React Router, JWT authentication
 - Javascript, AI and Algorithms
 
 My current goals are: 
