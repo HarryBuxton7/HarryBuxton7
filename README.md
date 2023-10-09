@@ -11,7 +11,7 @@ My current goals are:
 
 - Build TypeScript and CSS Skills
 
-- Work on new full-stack project to build upon current knowledge
+- Work on new a full-stack project to build upon current knowledge
 
 
 Code sandbox: https://codesandbox.io/u/buxtonharry
