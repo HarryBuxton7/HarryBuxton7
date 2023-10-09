@@ -1,4 +1,4 @@
-Computer Science Graduate from the University of Birmingham with the goal of becoming a software engineer. Seeking oppertunities to grow as a developer in a professional enviornment to build technical skills.
+Computer Science Graduate from the University of Birmingham with the goal of becoming a software engineer. Seeking oppertunities to grow as a developer in a professional enviornment and oppertunities to collaborate in a group setting.
 
 
 Demonstratable knowledge on: 
