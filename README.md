@@ -14,4 +14,4 @@ My current goals are:
 - Work on new a full-stack project to build upon current knowledge
 
 
-Code sandbox: https://codesandbox.io/u/buxtonharry
+Code sandbox (before starting degree): https://codesandbox.io/u/buxtonharry
