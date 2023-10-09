@@ -3,7 +3,7 @@ Computer Science Graduate from the University of Birmingham with the goal of bec
 
 Demonstratable knowledge on: 
 
-- Building and deploying React based full-stack web applications (see my dissertation project).
+- Building and deploying React based full-stack web applications.
 
 Currently goals: 
 
