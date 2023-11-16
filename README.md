@@ -5,7 +5,7 @@ My Github shows demonstrable experience with:
 
 - Designing, technically implementing and deploying a live full-stack web based application that handles simultaneous users.
 - Next, React, Node, Express, MongoDB, Vite, MUI, Prettier, Thunder Client, React Query, React Router, JWT authentication, CI/CD
-- Javascript, AI and Algorithms
+- Typescript, Javascript, AI and Algorithms
 
 Currently working on:
 
