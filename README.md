@@ -11,4 +11,4 @@ Currently working on:
 
   - https://github.com/HarryBuxton7/Song-Meaning-AI-Website
 
-Code sandbox (before starting degree): https://codesandbox.io/u/buxtonharry
+Codesandbox (before starting degree): https://codesandbox.io/u/buxtonharry
