@@ -7,11 +7,8 @@ My Github shows demonstrable experience with:
 - React, Node, Express, MongoDB, Vite, MUI, Prettier, Thunder Client, React Query, React Router, JWT authentication, CI/CD
 - Javascript, AI and Algorithms
 
-My current goals are: 
+Currently working on:
 
-- Build TypeScript and CSS Skills
-
-- Work on new a full-stack project to build upon current knowledge
-
+  - https://github.com/HarryBuxton7/Song-Meaning-AI-Website
 
 Code sandbox (before starting degree): https://codesandbox.io/u/buxtonharry
