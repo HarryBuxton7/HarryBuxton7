@@ -9,6 +9,8 @@ My Github shows demonstrable experience with:
 
 Currently working on:
 
+
+  - Advent of code: https://github.com/HarryBuxton7/Advent-Of-Code-2023
   - https://github.com/HarryBuxton7/Song-Meaning-AI-Website
 
 Codesandbox (before starting degree): https://codesandbox.io/u/buxtonharry
